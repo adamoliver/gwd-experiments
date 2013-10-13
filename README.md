@@ -1,3 +1,3 @@
 # Experiments with Google Web Designer
 
-[Mindmap](mindmap/index.html)
+[Mindmap](http://adamoliver.github.io/gwd-experiments/mindmap/index.html)
